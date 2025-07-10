@@ -1,4 +1,4 @@
-# 🧠 NLW Agents - App com IA Autônoma
+# 🧠 NLW Agents 
 
 Este projeto foi desenvolvido durante o **NLW Agents** da [Rocketseat](https://rocketseat.com.br), sob a mentoria de Diego Fernandes. O objetivo é criar uma aplicação que utiliza **agentes de IA generativa** para atuar de forma autônoma, integrando com tecnologias modernas como **Next.js, React, TailwindCSS e IA via OpenAI API**.
 
