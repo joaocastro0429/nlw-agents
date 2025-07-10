@@ -1,3 +1,4 @@
+
 import { count, eq } from 'drizzle-orm'
 import type { FastifyPluginCallbackZod } from 'fastify-type-provider-zod'
 import { db } from '../../db/conection.ts'
