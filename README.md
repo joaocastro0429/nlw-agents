@@ -25,18 +25,3 @@ Este projeto foi desenvolvido durante o **NLW Agents** da [Rocketseat](https://r
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```bash
-├── app
-│   └── page.tsx        # Página principal
-├── components
-│   └── AgentCard.tsx   # Cartão de cada agente
-├── lib
-│   └── agents.ts       # Funções de IA com LangChain
-├── actions
-│   └── chat.ts         # Server action para IA
-├── public
-├── styles
-│   └── globals.css
-└── ...
